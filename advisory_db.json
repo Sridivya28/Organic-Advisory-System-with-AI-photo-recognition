@@ -1,0 +1,752 @@
+{
+  "Pepper__bell___Bacterial_spot": {
+    "organic_en": [
+      "Spray neem oil (5 ml per litre) weekly for Pepper__bell___Bacterial_spot.",
+      "Apply compost tea as foliar feed for Pepper__bell___Bacterial_spot."
+    ],
+    "organic_te": [
+      "Pepper__bell___Bacterial_spot కోసం ప్రతి వారం నిమ్ నూనె (5 మి.లీ/లీటర్) పిచికారి చేయండి.",
+      "Pepper__bell___Bacterial_spot కోసం ఫోలియర్ ఫీడ్ గా కంపోస్ట్ టీ ఉపయోగించండి."
+    ],
+    "pesticide_en": [
+      "If severe, apply a registered organic-safe pesticide for Pepper__bell___Bacterial_spot."
+    ],
+    "pesticide_te": [
+      "తీవ్రత ఉంటే, Pepper__bell___Bacterial_spot కోసం నమోదు చేయబడిన సేంద్రీయ-సురక్షిత పెస్టిసైడ్ వాడండి."
+    ],
+    "steps_en": {
+      "organic_1": [
+        "Collect fresh neem leaves.",
+        "Boil 50g leaves in 1 litre water for 20 minutes.",
+        "Cool, strain and dilute 1:10 before spraying."
+      ],
+      "organic_2": [
+        "Take 500g well-decomposed compost.",
+        "Steep in 5 litres of water for 48 hours, stir occasionally.",
+        "Filter and use as compost tea spray."
+      ],
+      "pesticide": [
+        "Follow manufacturer label for mixing rates and PPE.",
+        "Spray in early morning or late evening."
+      ]
+    },
+    "steps_te": {
+      "organic_1": [
+        "తాజా నిమ్ ఆకులు సేకరించండి.",
+        "50 గ్రాముల ఆకులను 1 లీటరు నీటిలో 20 నిమిషాలు మరిగించండి.",
+        "చల్లారిన తరువాత వడకట్టి 1:10 నుపయోగించండి."
+      ],
+      "organic_2": [
+        "500 గ్రాముల పాడిన కంపోస్ట్ తీసుకోండి.",
+        "5 లీటర్లు నీటిలో 48 గంటలు నానబెట్టండి, మధ్యలో కలపండి.",
+        "వడకట్టి స్ప్రే చేయండి."
+      ],
+      "pesticide": [
+        "తయారీదారు సూచనలను పాటించండి మరియు PPE వాడండి.",
+        "ఉదయం లేదా సాయంత్రం పిచికారి చేయండి."
+      ]
+    },
+    "video_url": "https://www.youtube.com/watch?v=3XbYpM3Zy6Q",
+    "voice_te": "Pepper__bell___Bacterial_spot గుర్తించబడింది. మొదటి సూచన: నిమ్ ద్రావణం వాడండి."
+  },
+  "Pepper__bell___healthy": {
+    "organic_en": [
+      "Spray neem oil (5 ml per litre) weekly for Pepper__bell___healthy.",
+      "Apply compost tea as foliar feed for Pepper__bell___healthy."
+    ],
+    "organic_te": [
+      "Pepper__bell___healthy కోసం ప్రతి వారం నిమ్ నూనె (5 మి.లీ/లీటర్) పిచికారి చేయండి.",
+      "Pepper__bell___healthy కోసం ఫోలియర్ ఫీడ్ గా కంపోస్ట్ టీ ఉపయోగించండి."
+    ],
+    "pesticide_en": [
+      "If severe, apply a registered organic-safe pesticide for Pepper__bell___healthy."
+    ],
+    "pesticide_te": [
+      "తీవ్రత ఉంటే, Pepper__bell___healthy కోసం నమోదు చేయబడిన సేంద్రీయ-సురక్షిత పెస్టిసైడ్ వాడండి."
+    ],
+    "steps_en": {
+      "organic_1": [
+        "Collect fresh neem leaves.",
+        "Boil 50g leaves in 1 litre water for 20 minutes.",
+        "Cool, strain and dilute 1:10 before spraying."
+      ],
+      "organic_2": [
+        "Take 500g well-decomposed compost.",
+        "Steep in 5 litres of water for 48 hours, stir occasionally.",
+        "Filter and use as compost tea spray."
+      ],
+      "pesticide": [
+        "Follow manufacturer label for mixing rates and PPE.",
+        "Spray in early morning or late evening."
+      ]
+    },
+    "steps_te": {
+      "organic_1": [
+        "తాజా నిమ్ ఆకులు సేకరించండి.",
+        "50 గ్రాముల ఆకులను 1 లీటరు నీటిలో 20 నిమిషాలు మరిగించండి.",
+        "చల్లారిన తరువాత వడకట్టి 1:10 నుపయోగించండి."
+      ],
+      "organic_2": [
+        "500 గ్రాముల పాడిన కంపోస్ట్ తీసుకోండి.",
+        "5 లీటర్లు నీటిలో 48 గంటలు నానబెట్టండి, మధ్యలో కలపండి.",
+        "వడకట్టి స్ప్రే చేయండి."
+      ],
+      "pesticide": [
+        "తయారీదారు సూచనలను పాటించండి మరియు PPE వాడండి.",
+        "ఉదయం లేదా సాయంత్రం పిచికారి చేయండి."
+      ]
+    },
+    "video_url": "https://www.youtube.com/watch?v=3XbYpM3Zy6Q",
+    "voice_te": "Pepper__bell___healthy గుర్తించబడింది. మొదటి సూచన: నిమ్ ద్రావణం వాడండి."
+  },
+  "Potato___Early_blight": {
+    "organic_en": [
+      "Spray neem oil (5 ml per litre) weekly for Potato___Early_blight.",
+      "Apply compost tea as foliar feed for Potato___Early_blight."
+    ],
+    "organic_te": [
+      "Potato___Early_blight కోసం ప్రతి వారం నిమ్ నూనె (5 మి.లీ/లీటర్) పిచికారి చేయండి.",
+      "Potato___Early_blight కోసం ఫోలియర్ ఫీడ్ గా కంపోస్ట్ టీ ఉపయోగించండి."
+    ],
+    "pesticide_en": [
+      "If severe, apply a registered organic-safe pesticide for Potato___Early_blight."
+    ],
+    "pesticide_te": [
+      "తీవ్రత ఉంటే, Potato___Early_blight కోసం నమోదు చేయబడిన సేంద్రీయ-సురక్షిత పెస్టిసైడ్ వాడండి."
+    ],
+    "steps_en": {
+      "organic_1": [
+        "Collect fresh neem leaves.",
+        "Boil 50g leaves in 1 litre water for 20 minutes.",
+        "Cool, strain and dilute 1:10 before spraying."
+      ],
+      "organic_2": [
+        "Take 500g well-decomposed compost.",
+        "Steep in 5 litres of water for 48 hours, stir occasionally.",
+        "Filter and use as compost tea spray."
+      ],
+      "pesticide": [
+        "Follow manufacturer label for mixing rates and PPE.",
+        "Spray in early morning or late evening."
+      ]
+    },
+    "steps_te": {
+      "organic_1": [
+        "తాజా నిమ్ ఆకులు సేకరించండి.",
+        "50 గ్రాముల ఆకులను 1 లీటరు నీటిలో 20 నిమిషాలు మరిగించండి.",
+        "చల్లారిన తరువాత వడకట్టి 1:10 నుపయోగించండి."
+      ],
+      "organic_2": [
+        "500 గ్రాముల పాడిన కంపోస్ట్ తీసుకోండి.",
+        "5 లీటర్లు నీటిలో 48 గంటలు నానబెట్టండి, మధ్యలో కలపండి.",
+        "వడకట్టి స్ప్రే చేయండి."
+      ],
+      "pesticide": [
+        "తయారీదారు సూచనలను పాటించండి మరియు PPE వాడండి.",
+        "ఉదయం లేదా సాయంత్రం పిచికారి చేయండి."
+      ]
+    },
+    "video_url": "https://www.youtube.com/watch?v=YQTxhGyl3No",
+    "voice_te": "Potato___Early_blight గుర్తించబడింది. మొదటి సూచన: నిమ్ ద్రావణం వాడండి."
+  },
+  "Potato___Late_blight": {
+    "organic_en": [
+      "Spray neem oil (5 ml per litre) weekly for Potato___Late_blight.",
+      "Apply compost tea as foliar feed for Potato___Late_blight."
+    ],
+    "organic_te": [
+      "Potato___Late_blight కోసం ప్రతి వారం నిమ్ నూనె (5 మి.లీ/లీటర్) పిచికారి చేయండి.",
+      "Potato___Late_blight కోసం ఫోలియర్ ఫీడ్ గా కంపోస్ట్ టీ ఉపయోగించండి."
+    ],
+    "pesticide_en": [
+      "If severe, apply a registered organic-safe pesticide for Potato___Late_blight."
+    ],
+    "pesticide_te": [
+      "తీవ్రత ఉంటే, Potato___Late_blight కోసం నమోదు చేయబడిన సేంద్రీయ-సురక్షిత పెస్టిసైడ్ వాడండి."
+    ],
+    "steps_en": {
+      "organic_1": [
+        "Collect fresh neem leaves.",
+        "Boil 50g leaves in 1 litre water for 20 minutes.",
+        "Cool, strain and dilute 1:10 before spraying."
+      ],
+      "organic_2": [
+        "Take 500g well-decomposed compost.",
+        "Steep in 5 litres of water for 48 hours, stir occasionally.",
+        "Filter and use as compost tea spray."
+      ],
+      "pesticide": [
+        "Follow manufacturer label for mixing rates and PPE.",
+        "Spray in early morning or late evening."
+      ]
+    },
+    "steps_te": {
+      "organic_1": [
+        "తాజా నిమ్ ఆకులు సేకరించండి.",
+        "50 గ్రాముల ఆకులను 1 లీటరు నీటిలో 20 నిమిషాలు మరిగించండి.",
+        "చల్లారిన తరువాత వడకట్టి 1:10 నుపయోగించండి."
+      ],
+      "organic_2": [
+        "500 గ్రాముల పాడిన కంపోస్ట్ తీసుకోండి.",
+        "5 లీటర్లు నీటిలో 48 గంటలు నానబెట్టండి, మధ్యలో కలపండి.",
+        "వడకట్టి స్ప్రే చేయండి."
+      ],
+      "pesticide": [
+        "తయారీదారు సూచనలను పాటించండి మరియు PPE వాడండి.",
+        "ఉదయం లేదా సాయంత్రం పిచికారి చేయండి."
+      ]
+    },
+    "video_url": "https://www.youtube.com/watch?v=YQTxhGyl3No",
+    "voice_te": "Potato___Late_blight గుర్తించబడింది. మొదటి సూచన: నిమ్ ద్రావణం వాడండి."
+  },
+  "Potato___healthy": {
+    "organic_en": [
+      "Spray neem oil (5 ml per litre) weekly for Potato___healthy.",
+      "Apply compost tea as foliar feed for Potato___healthy."
+    ],
+    "organic_te": [
+      "Potato___healthy కోసం ప్రతి వారం నిమ్ నూనె (5 మి.లీ/లీటర్) పిచికారి చేయండి.",
+      "Potato___healthy కోసం ఫోలియర్ ఫీడ్ గా కంపోస్ట్ టీ ఉపయోగించండి."
+    ],
+    "pesticide_en": [
+      "If severe, apply a registered organic-safe pesticide for Potato___healthy."
+    ],
+    "pesticide_te": [
+      "తీవ్రత ఉంటే, Potato___healthy కోసం నమోదు చేయబడిన సేంద్రీయ-సురక్షిత పెస్టిసైడ్ వాడండి."
+    ],
+    "steps_en": {
+      "organic_1": [
+        "Collect fresh neem leaves.",
+        "Boil 50g leaves in 1 litre water for 20 minutes.",
+        "Cool, strain and dilute 1:10 before spraying."
+      ],
+      "organic_2": [
+        "Take 500g well-decomposed compost.",
+        "Steep in 5 litres of water for 48 hours, stir occasionally.",
+        "Filter and use as compost tea spray."
+      ],
+      "pesticide": [
+        "Follow manufacturer label for mixing rates and PPE.",
+        "Spray in early morning or late evening."
+      ]
+    },
+    "steps_te": {
+      "organic_1": [
+        "తాజా నిమ్ ఆకులు సేకరించండి.",
+        "50 గ్రాముల ఆకులను 1 లీటరు నీటిలో 20 నిమిషాలు మరిగించండి.",
+        "చల్లారిన తరువాత వడకట్టి 1:10 నుపయోగించండి."
+      ],
+      "organic_2": [
+        "500 గ్రాముల పాడిన కంపోస్ట్ తీసుకోండి.",
+        "5 లీటర్లు నీటిలో 48 గంటలు నానబెట్టండి, మధ్యలో కలపండి.",
+        "వడకట్టి స్ప్రే చేయండి."
+      ],
+      "pesticide": [
+        "తయారీదారు సూచనలను పాటించండి మరియు PPE వాడండి.",
+        "ఉదయం లేదా సాయంత్రం పిచికారి చేయండి."
+      ]
+    },
+    "video_url": "https://www.youtube.com/watch?v=YQTxhGyl3No",
+    "voice_te": "Potato___healthy గుర్తించబడింది. మొదటి సూచన: నిమ్ ద్రావణం వాడండి."
+  },
+  "Tomato_Bacterial_spot": {
+    "organic_en": [
+      "Spray neem oil (5 ml per litre) weekly for Tomato_Bacterial_spot.",
+      "Apply compost tea as foliar feed for Tomato_Bacterial_spot."
+    ],
+    "organic_te": [
+      "Tomato_Bacterial_spot కోసం ప్రతి వారం నిమ్ నూనె (5 మి.లీ/లీటర్) పిచికారి చేయండి.",
+      "Tomato_Bacterial_spot కోసం ఫోలియర్ ఫీడ్ గా కంపోస్ట్ టీ ఉపయోగించండి."
+    ],
+    "pesticide_en": [
+      "If severe, apply a registered organic-safe pesticide for Tomato_Bacterial_spot."
+    ],
+    "pesticide_te": [
+      "తీవ్రత ఉంటే, Tomato_Bacterial_spot కోసం నమోదు చేయబడిన సేంద్రీయ-సురక్షిత పెస్టిసైడ్ వాడండి."
+    ],
+    "steps_en": {
+      "organic_1": [
+        "Collect fresh neem leaves.",
+        "Boil 50g leaves in 1 litre water for 20 minutes.",
+        "Cool, strain and dilute 1:10 before spraying."
+      ],
+      "organic_2": [
+        "Take 500g well-decomposed compost.",
+        "Steep in 5 litres of water for 48 hours, stir occasionally.",
+        "Filter and use as compost tea spray."
+      ],
+      "pesticide": [
+        "Follow manufacturer label for mixing rates and PPE.",
+        "Spray in early morning or late evening."
+      ]
+    },
+    "steps_te": {
+      "organic_1": [
+        "తాజా నిమ్ ఆకులు సేకరించండి.",
+        "50 గ్రాముల ఆకులను 1 లీటరు నీటిలో 20 నిమిషాలు మరిగించండి.",
+        "చల్లారిన తరువాత వడకట్టి 1:10 నుపయోగించండి."
+      ],
+      "organic_2": [
+        "500 గ్రాముల పాడిన కంపోస్ట్ తీసుకోండి.",
+        "5 లీటర్లు నీటిలో 48 గంటలు నానబెట్టండి, మధ్యలో కలపండి.",
+        "వడకట్టి స్ప్రే చేయండి."
+      ],
+      "pesticide": [
+        "తయారీదారు సూచనలను పాటించండి మరియు PPE వాడండి.",
+        "ఉదయం లేదా సాయంత్రం పిచికారి చేయండి."
+      ]
+    },
+    "video_url": "https://www.youtube.com/watch?v=UvGdlRrY5sA",
+    "voice_te": "Tomato_Bacterial_spot గుర్తించబడింది. మొదటి సూచన: నిమ్ ద్రావణం వాడండి."
+  },
+  "Tomato_Early_blight": {
+    "organic_en": [
+      "Spray neem oil (5 ml per litre) weekly for Tomato_Early_blight.",
+      "Apply compost tea as foliar feed for Tomato_Early_blight."
+    ],
+    "organic_te": [
+      "Tomato_Early_blight కోసం ప్రతి వారం నిమ్ నూనె (5 మి.లీ/లీటర్) పిచికారి చేయండి.",
+      "Tomato_Early_blight కోసం ఫోలియర్ ఫీడ్ గా కంపోస్ట్ టీ ఉపయోగించండి."
+    ],
+    "pesticide_en": [
+      "If severe, apply a registered organic-safe pesticide for Tomato_Early_blight."
+    ],
+    "pesticide_te": [
+      "తీవ్రత ఉంటే, Tomato_Early_blight కోసం నమోదు చేయబడిన సేంద్రీయ-సురక్షిత పెస్టిసైడ్ వాడండి."
+    ],
+    "steps_en": {
+      "organic_1": [
+        "Collect fresh neem leaves.",
+        "Boil 50g leaves in 1 litre water for 20 minutes.",
+        "Cool, strain and dilute 1:10 before spraying."
+      ],
+      "organic_2": [
+        "Take 500g well-decomposed compost.",
+        "Steep in 5 litres of water for 48 hours, stir occasionally.",
+        "Filter and use as compost tea spray."
+      ],
+      "pesticide": [
+        "Follow manufacturer label for mixing rates and PPE.",
+        "Spray in early morning or late evening."
+      ]
+    },
+    "steps_te": {
+      "organic_1": [
+        "తాజా నిమ్ ఆకులు సేకరించండి.",
+        "50 గ్రాముల ఆకులను 1 లీటరు నీటిలో 20 నిమిషాలు మరిగించండి.",
+        "చల్లారిన తరువాత వడకట్టి 1:10 నుపయోగించండి."
+      ],
+      "organic_2": [
+        "500 గ్రాముల పాడిన కంపోస్ట్ తీసుకోండి.",
+        "5 లీటర్లు నీటిలో 48 గంటలు నానబెట్టండి, మధ్యలో కలపండి.",
+        "వడకట్టి స్ప్రే చేయండి."
+      ],
+      "pesticide": [
+        "తయారీదారు సూచనలను పాటించండి మరియు PPE వాడండి.",
+        "ఉదయం లేదా సాయంత్రం పిచికారి చేయండి."
+      ]
+    },
+    "video_url": "https://www.youtube.com/watch?v=UvGdlRrY5sA",
+    "voice_te": "Tomato_Early_blight గుర్తించబడింది. మొదటి సూచన: నిమ్ ద్రావణం వాడండి."
+  },
+  "Tomato_Late_blight": {
+    "organic_en": [
+      "Spray neem oil (5 ml per litre) weekly for Tomato_Late_blight.",
+      "Apply compost tea as foliar feed for Tomato_Late_blight."
+    ],
+    "organic_te": [
+      "Tomato_Late_blight కోసం ప్రతి వారం నిమ్ నూనె (5 మి.లీ/లీటర్) పిచికారి చేయండి.",
+      "Tomato_Late_blight కోసం ఫోలియర్ ఫీడ్ గా కంపోస్ట్ టీ ఉపయోగించండి."
+    ],
+    "pesticide_en": [
+      "If severe, apply a registered organic-safe pesticide for Tomato_Late_blight."
+    ],
+    "pesticide_te": [
+      "తీవ్రత ఉంటే, Tomato_Late_blight కోసం నమోదు చేయబడిన సేంద్రీయ-సురక్షిత పెస్టిసైడ్ వాడండి."
+    ],
+    "steps_en": {
+      "organic_1": [
+        "Collect fresh neem leaves.",
+        "Boil 50g leaves in 1 litre water for 20 minutes.",
+        "Cool, strain and dilute 1:10 before spraying."
+      ],
+      "organic_2": [
+        "Take 500g well-decomposed compost.",
+        "Steep in 5 litres of water for 48 hours, stir occasionally.",
+        "Filter and use as compost tea spray."
+      ],
+      "pesticide": [
+        "Follow manufacturer label for mixing rates and PPE.",
+        "Spray in early morning or late evening."
+      ]
+    },
+    "steps_te": {
+      "organic_1": [
+        "తాజా నిమ్ ఆకులు సేకరించండి.",
+        "50 గ్రాముల ఆకులను 1 లీటరు నీటిలో 20 నిమిషాలు మరిగించండి.",
+        "చల్లారిన తరువాత వడకట్టి 1:10 నుపయోగించండి."
+      ],
+      "organic_2": [
+        "500 గ్రాముల పాడిన కంపోస్ట్ తీసుకోండి.",
+        "5 లీటర్లు నీటిలో 48 గంటలు నానబెట్టండి, మధ్యలో కలపండి.",
+        "వడకట్టి స్ప్రే చేయండి."
+      ],
+      "pesticide": [
+        "తయారీదారు సూచనలను పాటించండి మరియు PPE వాడండి.",
+        "ఉదయం లేదా సాయంత్రం పిచికారి చేయండి."
+      ]
+    },
+    "video_url": "https://www.youtube.com/watch?v=UvGdlRrY5sA",
+    "voice_te": "Tomato_Late_blight గుర్తించబడింది. మొదటి సూచన: నిమ్ ద్రావణం వాడండి."
+  },
+  "Tomato_Leaf_Mold": {
+    "organic_en": [
+      "Spray neem oil (5 ml per litre) weekly for Tomato_Leaf_Mold.",
+      "Apply compost tea as foliar feed for Tomato_Leaf_Mold."
+    ],
+    "organic_te": [
+      "Tomato_Leaf_Mold కోసం ప్రతి వారం నిమ్ నూనె (5 మి.లీ/లీటర్) పిచికారి చేయండి.",
+      "Tomato_Leaf_Mold కోసం ఫోలియర్ ఫీడ్ గా కంపోస్ట్ టీ ఉపయోగించండి."
+    ],
+    "pesticide_en": [
+      "If severe, apply a registered organic-safe pesticide for Tomato_Leaf_Mold."
+    ],
+    "pesticide_te": [
+      "తీవ్రత ఉంటే, Tomato_Leaf_Mold కోసం నమోదు చేయబడిన సేంద్రీయ-సురక్షిత పెస్టిసైడ్ వాడండి."
+    ],
+    "steps_en": {
+      "organic_1": [
+        "Collect fresh neem leaves.",
+        "Boil 50g leaves in 1 litre water for 20 minutes.",
+        "Cool, strain and dilute 1:10 before spraying."
+      ],
+      "organic_2": [
+        "Take 500g well-decomposed compost.",
+        "Steep in 5 litres of water for 48 hours, stir occasionally.",
+        "Filter and use as compost tea spray."
+      ],
+      "pesticide": [
+        "Follow manufacturer label for mixing rates and PPE.",
+        "Spray in early morning or late evening."
+      ]
+    },
+    "steps_te": {
+      "organic_1": [
+        "తాజా నిమ్ ఆకులు సేకరించండి.",
+        "50 గ్రాముల ఆకులను 1 లీటరు నీటిలో 20 నిమిషాలు మరిగించండి.",
+        "చల్లారిన తరువాత వడకట్టి 1:10 నుపయోగించండి."
+      ],
+      "organic_2": [
+        "500 గ్రాముల పాడిన కంపోస్ట్ తీసుకోండి.",
+        "5 లీటర్లు నీటిలో 48 గంటలు నానబెట్టండి, మధ్యలో కలపండి.",
+        "వడకట్టి స్ప్రే చేయండి."
+      ],
+      "pesticide": [
+        "తయారీదారు సూచనలను పాటించండి మరియు PPE వాడండి.",
+        "ఉదయం లేదా సాయంత్రం పిచికారి చేయండి."
+      ]
+    },
+    "video_url": "https://www.youtube.com/watch?v=UvGdlRrY5sA",
+    "voice_te": "Tomato_Leaf_Mold గుర్తించబడింది. మొదటి సూచన: నిమ్ ద్రావణం వాడండి."
+  },
+  "Tomato_Septoria_leaf_spot": {
+    "organic_en": [
+      "Spray neem oil (5 ml per litre) weekly for Tomato_Septoria_leaf_spot.",
+      "Apply compost tea as foliar feed for Tomato_Septoria_leaf_spot."
+    ],
+    "organic_te": [
+      "Tomato_Septoria_leaf_spot కోసం ప్రతి వారం నిమ్ నూనె (5 మి.లీ/లీటర్) పిచికారి చేయండి.",
+      "Tomato_Septoria_leaf_spot కోసం ఫోలియర్ ఫీడ్ గా కంపోస్ట్ టీ ఉపయోగించండి."
+    ],
+    "pesticide_en": [
+      "If severe, apply a registered organic-safe pesticide for Tomato_Septoria_leaf_spot."
+    ],
+    "pesticide_te": [
+      "తీవ్రత ఉంటే, Tomato_Septoria_leaf_spot కోసం నమోదు చేయబడిన సేంద్రీయ-సురక్షిత పెస్టిసైడ్ వాడండి."
+    ],
+    "steps_en": {
+      "organic_1": [
+        "Collect fresh neem leaves.",
+        "Boil 50g leaves in 1 litre water for 20 minutes.",
+        "Cool, strain and dilute 1:10 before spraying."
+      ],
+      "organic_2": [
+        "Take 500g well-decomposed compost.",
+        "Steep in 5 litres of water for 48 hours, stir occasionally.",
+        "Filter and use as compost tea spray."
+      ],
+      "pesticide": [
+        "Follow manufacturer label for mixing rates and PPE.",
+        "Spray in early morning or late evening."
+      ]
+    },
+    "steps_te": {
+      "organic_1": [
+        "తాజా నిమ్ ఆకులు సేకరించండి.",
+        "50 గ్రాముల ఆకులను 1 లీటరు నీటిలో 20 నిమిషాలు మరిగించండి.",
+        "చల్లారిన తరువాత వడకట్టి 1:10 నుపయోగించండి."
+      ],
+      "organic_2": [
+        "500 గ్రాముల పాడిన కంపోస్ట్ తీసుకోండి.",
+        "5 లీటర్లు నీటిలో 48 గంటలు నానబెట్టండి, మధ్యలో కలపండి.",
+        "వడకట్టి స్ప్రే చేయండి."
+      ],
+      "pesticide": [
+        "తయారీదారు సూచనలను పాటించండి మరియు PPE వాడండి.",
+        "ఉదయం లేదా సాయంత్రం పిచికారి చేయండి."
+      ]
+    },
+    "video_url": "https://www.youtube.com/watch?v=UvGdlRrY5sA",
+    "voice_te": "Tomato_Septoria_leaf_spot గుర్తించబడింది. మొదటి సూచన: నిమ్ ద్రావణం వాడండి."
+  },
+  "Tomato_Spider_mites_Two_spotted_spider_mite": {
+    "organic_en": [
+      "Spray neem oil (5 ml per litre) weekly for Tomato_Spider_mites_Two_spotted_spider_mite.",
+      "Apply compost tea as foliar feed for Tomato_Spider_mites_Two_spotted_spider_mite."
+    ],
+    "organic_te": [
+      "Tomato_Spider_mites_Two_spotted_spider_mite కోసం ప్రతి వారం నిమ్ నూనె (5 మి.లీ/లీటర్) పిచికారి చేయండి.",
+      "Tomato_Spider_mites_Two_spotted_spider_mite కోసం ఫోలియర్ ఫీడ్ గా కంపోస్ట్ టీ ఉపయోగించండి."
+    ],
+    "pesticide_en": [
+      "If severe, apply a registered organic-safe pesticide for Tomato_Spider_mites_Two_spotted_spider_mite."
+    ],
+    "pesticide_te": [
+      "తీవ్రత ఉంటే, Tomato_Spider_mites_Two_spotted_spider_mite కోసం నమోదు చేయబడిన సేంద్రీయ-సురక్షిత పెస్టిసైడ్ వాడండి."
+    ],
+    "steps_en": {
+      "organic_1": [
+        "Collect fresh neem leaves.",
+        "Boil 50g leaves in 1 litre water for 20 minutes.",
+        "Cool, strain and dilute 1:10 before spraying."
+      ],
+      "organic_2": [
+        "Take 500g well-decomposed compost.",
+        "Steep in 5 litres of water for 48 hours, stir occasionally.",
+        "Filter and use as compost tea spray."
+      ],
+      "pesticide": [
+        "Follow manufacturer label for mixing rates and PPE.",
+        "Spray in early morning or late evening."
+      ]
+    },
+    "steps_te": {
+      "organic_1": [
+        "తాజా నిమ్ ఆకులు సేకరించండి.",
+        "50 గ్రాముల ఆకులను 1 లీటరు నీటిలో 20 నిమిషాలు మరిగించండి.",
+        "చల్లారిన తరువాత వడకట్టి 1:10 నుపయోగించండి."
+      ],
+      "organic_2": [
+        "500 గ్రాముల పాడిన కంపోస్ట్ తీసుకోండి.",
+        "5 లీటర్లు నీటిలో 48 గంటలు నానబెట్టండి, మధ్యలో కలపండి.",
+        "వడకట్టి స్ప్రే చేయండి."
+      ],
+      "pesticide": [
+        "తయారీదారు సూచనలను పాటించండి మరియు PPE వాడండి.",
+        "ఉదయం లేదా సాయంత్రం పిచికారి చేయండి."
+      ]
+    },
+    "video_url": "https://www.youtube.com/watch?v=UvGdlRrY5sA",
+    "voice_te": "Tomato_Spider_mites_Two_spotted_spider_mite గుర్తించబడింది. మొదటి సూచన: నిమ్ ద్రావణం వాడండి."
+  },
+  "Tomato__Target_Spot": {
+    "organic_en": [
+      "Spray neem oil (5 ml per litre) weekly for Tomato__Target_Spot.",
+      "Apply compost tea as foliar feed for Tomato__Target_Spot."
+    ],
+    "organic_te": [
+      "Tomato__Target_Spot కోసం ప్రతి వారం నిమ్ నూనె (5 మి.లీ/లీటర్) పిచికారి చేయండి.",
+      "Tomato__Target_Spot కోసం ఫోలియర్ ఫీడ్ గా కంపోస్ట్ టీ ఉపయోగించండి."
+    ],
+    "pesticide_en": [
+      "If severe, apply a registered organic-safe pesticide for Tomato__Target_Spot."
+    ],
+    "pesticide_te": [
+      "తీవ్రత ఉంటే, Tomato__Target_Spot కోసం నమోదు చేయబడిన సేంద్రీయ-సురక్షిత పెస్టిసైడ్ వాడండి."
+    ],
+    "steps_en": {
+      "organic_1": [
+        "Collect fresh neem leaves.",
+        "Boil 50g leaves in 1 litre water for 20 minutes.",
+        "Cool, strain and dilute 1:10 before spraying."
+      ],
+      "organic_2": [
+        "Take 500g well-decomposed compost.",
+        "Steep in 5 litres of water for 48 hours, stir occasionally.",
+        "Filter and use as compost tea spray."
+      ],
+      "pesticide": [
+        "Follow manufacturer label for mixing rates and PPE.",
+        "Spray in early morning or late evening."
+      ]
+    },
+    "steps_te": {
+      "organic_1": [
+        "తాజా నిమ్ ఆకులు సేకరించండి.",
+        "50 గ్రాముల ఆకులను 1 లీటరు నీటిలో 20 నిమిషాలు మరిగించండి.",
+        "చల్లారిన తరువాత వడకట్టి 1:10 నుపయోగించండి."
+      ],
+      "organic_2": [
+        "500 గ్రాముల పాడిన కంపోస్ట్ తీసుకోండి.",
+        "5 లీటర్లు నీటిలో 48 గంటలు నానబెట్టండి, మధ్యలో కలపండి.",
+        "వడకట్టి స్ప్రే చేయండి."
+      ],
+      "pesticide": [
+        "తయారీదారు సూచనలను పాటించండి మరియు PPE వాడండి.",
+        "ఉదయం లేదా సాయంత్రం పిచికారి చేయండి."
+      ]
+    },
+    "video_url": "https://www.youtube.com/watch?v=UvGdlRrY5sA",
+    "voice_te": "Tomato__Target_Spot గుర్తించబడింది. మొదటి సూచన: నిమ్ ద్రావణం వాడండి."
+  },
+  "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+    "organic_en": [
+      "Spray neem oil (5 ml per litre) weekly for Tomato__Tomato_YellowLeaf__Curl_Virus.",
+      "Apply compost tea as foliar feed for Tomato__Tomato_YellowLeaf__Curl_Virus."
+    ],
+    "organic_te": [
+      "Tomato__Tomato_YellowLeaf__Curl_Virus కోసం ప్రతి వారం నిమ్ నూనె (5 మి.లీ/లీటర్) పిచికారి చేయండి.",
+      "Tomato__Tomato_YellowLeaf__Curl_Virus కోసం ఫోలియర్ ఫీడ్ గా కంపోస్ట్ టీ ఉపయోగించండి."
+    ],
+    "pesticide_en": [
+      "If severe, apply a registered organic-safe pesticide for Tomato__Tomato_YellowLeaf__Curl_Virus."
+    ],
+    "pesticide_te": [
+      "తీవ్రత ఉంటే, Tomato__Tomato_YellowLeaf__Curl_Virus కోసం నమోదు చేయబడిన సేంద్రీయ-సురక్షిత పెస్టిసైడ్ వాడండి."
+    ],
+    "steps_en": {
+      "organic_1": [
+        "Collect fresh neem leaves.",
+        "Boil 50g leaves in 1 litre water for 20 minutes.",
+        "Cool, strain and dilute 1:10 before spraying."
+      ],
+      "organic_2": [
+        "Take 500g well-decomposed compost.",
+        "Steep in 5 litres of water for 48 hours, stir occasionally.",
+        "Filter and use as compost tea spray."
+      ],
+      "pesticide": [
+        "Follow manufacturer label for mixing rates and PPE.",
+        "Spray in early morning or late evening."
+      ]
+    },
+    "steps_te": {
+      "organic_1": [
+        "తాజా నిమ్ ఆకులు సేకరించండి.",
+        "50 గ్రాముల ఆకులను 1 లీటరు నీటిలో 20 నిమిషాలు మరిగించండి.",
+        "చల్లారిన తరువాత వడకట్టి 1:10 నుపయోగించండి."
+      ],
+      "organic_2": [
+        "500 గ్రాముల పాడిన కంపోస్ట్ తీసుకోండి.",
+        "5 లీటర్లు నీటిలో 48 గంటలు నానబెట్టండి, మధ్యలో కలపండి.",
+        "వడకట్టి స్ప్రే చేయండి."
+      ],
+      "pesticide": [
+        "తయారీదారు సూచనలను పాటించండి మరియు PPE వాడండి.",
+        "ఉదయం లేదా సాయంత్రం పిచికారి చేయండి."
+      ]
+    },
+    "video_url": "https://www.youtube.com/watch?v=UvGdlRrY5sA",
+    "voice_te": "Tomato__Tomato_YellowLeaf__Curl_Virus గుర్తించబడింది. మొదటి సూచన: నిమ్ ద్రావణం వాడండి."
+  },
+  "Tomato__Tomato_mosaic_virus": {
+    "organic_en": [
+      "Spray neem oil (5 ml per litre) weekly for Tomato__Tomato_mosaic_virus.",
+      "Apply compost tea as foliar feed for Tomato__Tomato_mosaic_virus."
+    ],
+    "organic_te": [
+      "Tomato__Tomato_mosaic_virus కోసం ప్రతి వారం నిమ్ నూనె (5 మి.లీ/లీటర్) పిచికారి చేయండి.",
+      "Tomato__Tomato_mosaic_virus కోసం ఫోలియర్ ఫీడ్ గా కంపోస్ట్ టీ ఉపయోగించండి."
+    ],
+    "pesticide_en": [
+      "If severe, apply a registered organic-safe pesticide for Tomato__Tomato_mosaic_virus."
+    ],
+    "pesticide_te": [
+      "తీవ్రత ఉంటే, Tomato__Tomato_mosaic_virus కోసం నమోదు చేయబడిన సేంద్రీయ-సురక్షిత పెస్టిసైడ్ వాడండి."
+    ],
+    "steps_en": {
+      "organic_1": [
+        "Collect fresh neem leaves.",
+        "Boil 50g leaves in 1 litre water for 20 minutes.",
+        "Cool, strain and dilute 1:10 before spraying."
+      ],
+      "organic_2": [
+        "Take 500g well-decomposed compost.",
+        "Steep in 5 litres of water for 48 hours, stir occasionally.",
+        "Filter and use as compost tea spray."
+      ],
+      "pesticide": [
+        "Follow manufacturer label for mixing rates and PPE.",
+        "Spray in early morning or late evening."
+      ]
+    },
+    "steps_te": {
+      "organic_1": [
+        "తాజా నిమ్ ఆకులు సేకరించండి.",
+        "50 గ్రాముల ఆకులను 1 లీటరు నీటిలో 20 నిమిషాలు మరిగించండి.",
+        "చల్లారిన తరువాత వడకట్టి 1:10 నుపయోగించండి."
+      ],
+      "organic_2": [
+        "500 గ్రాముల పాడిన కంపోస్ట్ తీసుకోండి.",
+        "5 లీటర్లు నీటిలో 48 గంటలు నానబెట్టండి, మధ్యలో కలపండి.",
+        "వడకట్టి స్ప్రే చేయండి."
+      ],
+      "pesticide": [
+        "తయారీదారు సూచనలను పాటించండి మరియు PPE వాడండి.",
+        "ఉదయం లేదా సాయంత్రం పిచికారి చేయండి."
+      ]
+    },
+    "video_url": "https://www.youtube.com/watch?v=UvGdlRrY5sA",
+    "voice_te": "Tomato__Tomato_mosaic_virus గుర్తించబడింది. మొదటి సూచన: నిమ్ ద్రావణం వాడండి."
+  },
+  "Tomato_healthy": {
+    "organic_en": [
+      "Spray neem oil (5 ml per litre) weekly for Tomato_healthy.",
+      "Apply compost tea as foliar feed for Tomato_healthy."
+    ],
+    "organic_te": [
+      "Tomato_healthy కోసం ప్రతి వారం నిమ్ నూనె (5 మి.లీ/లీటర్) పిచికారి చేయండి.",
+      "Tomato_healthy కోసం ఫోలియర్ ఫీడ్ గా కంపోస్ట్ టీ ఉపయోగించండి."
+    ],
+    "pesticide_en": [
+      "If severe, apply a registered organic-safe pesticide for Tomato_healthy."
+    ],
+    "pesticide_te": [
+      "తీవ్రత ఉంటే, Tomato_healthy కోసం నమోదు చేయబడిన సేంద్రీయ-సురక్షిత పెస్టిసైడ్ వాడండి."
+    ],
+    "steps_en": {
+      "organic_1": [
+        "Collect fresh neem leaves.",
+        "Boil 50g leaves in 1 litre water for 20 minutes.",
+        "Cool, strain and dilute 1:10 before spraying."
+      ],
+      "organic_2": [
+        "Take 500g well-decomposed compost.",
+        "Steep in 5 litres of water for 48 hours, stir occasionally.",
+        "Filter and use as compost tea spray."
+      ],
+      "pesticide": [
+        "Follow manufacturer label for mixing rates and PPE.",
+        "Spray in early morning or late evening."
+      ]
+    },
+    "steps_te": {
+      "organic_1": [
+        "తాజా నిమ్ ఆకులు సేకరించండి.",
+        "50 గ్రాముల ఆకులను 1 లీటరు నీటిలో 20 నిమిషాలు మరిగించండి.",
+        "చల్లారిన తరువాత వడకట్టి 1:10 నుపయోగించండి."
+      ],
+      "organic_2": [
+        "500 గ్రాముల పాడిన కంపోస్ట్ తీసుకోండి.",
+        "5 లీటర్లు నీటిలో 48 గంటలు నానబెట్టండి, మధ్యలో కలపండి.",
+        "వడకట్టి స్ప్రే చేయండి."
+      ],
+      "pesticide": [
+        "తయారీదారు సూచనలను పాటించండి మరియు PPE వాడండి.",
+        "ఉదయం లేదా సాయంత్రం పిచికారి చేయండి."
+      ]
+    },
+    "video_url": "https://www.youtube.com/watch?v=UvGdlRrY5sA",
+    "voice_te": "Tomato_healthy గుర్తించబడింది. మొదటి సూచన: నిమ్ ద్రావణం వాడండి."
+  }
+}
